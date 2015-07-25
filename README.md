@@ -1,5 +1,5 @@
 #Remindbot
-![badge](https://circleci.com/gh/OAODEV/remindbot.svg?style=shield&circle-token=:circle-token)
+[![badge](https://circleci.com/gh/OAODEV/remindbot.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/OAODEV/remindbot)
 
 `/cue us in 40 minutes to empty the trash`
 
