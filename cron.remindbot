@@ -1,0 +1,2 @@
+PYTHONPATH=/remindbot
+*/1 * * * * root python /remindbot/send-script.py
