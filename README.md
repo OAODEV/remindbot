@@ -1,6 +1,8 @@
 #Remindbot
 [![badge](https://circleci.com/gh/OAODEV/remindbot.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/OAODEV/remindbot)
 
+NB: as of 2015-11-05, this is covered by built-in functionality in Slackbot `/remind` command. It's been fun, but I won't be developing this further.
+
 `/cue us in 40 minutes to empty the trash`
 
 Send Slackbot-style reminders to a public Slack channel, using a Slash Command and Incoming Webhook
